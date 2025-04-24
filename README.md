@@ -44,7 +44,7 @@ Son zamanlarda özellikle **Firebase** ve **gerçek zamanlı oyunlar** üzerine 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuharremElyesa&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuharremElyesa&theme=github-dark&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuharremElyesa&theme=github-dark&hide_border=true" width="48%" /> -->
 </p>
 
 ---
